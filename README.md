@@ -20,6 +20,6 @@
 
 
 **Contacts:**
-
+* [Online CV](https://shiny-sprinkles-527c6b.netlify.app/)
 * kartausjob@gmail.com
 * [Telegram](t.me/blazac) 
